@@ -18,6 +18,7 @@
 :: 11.0 Cool Facts
 :: 12.0 Contact Area
 */
+
 /* :: 1.0 Import Fonts */
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900");
 /* :: 2.0 Import All CSS */
@@ -29,3 +30,14 @@
 @import url(./css/custom-icon.css);
 @import url(./css/classy-nav.min.css);
 @import url(./css/nice-select.min.css);
+
+/* :: 3.0 Base CSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+}
