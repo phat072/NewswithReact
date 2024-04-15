@@ -1,6 +1,6 @@
-// import './Head.tsx'
+import './Head.jsx'
 import images from '../img/core-img/logo.svg'
-import { Navbar } from './Navbar'
+import { Navbar } from './Navbar.jsx'
 
 
 export const Header = () => {

@@ -1,5 +1,5 @@
-import './Header.tsx'
-import './Footer.tsx'
+import './Header.jsx'
+import './Footer.jsx'
 
 export const Navbar = () => {
     return (

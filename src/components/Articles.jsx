@@ -1,5 +1,5 @@
-import './Head.tsx'
-import './Footer.tsx'
+import './Head.jsx'
+import './Footer.jsx'
 import image1 from '../img/bg-img/16.jpg'
 import image2 from '../img/bg-img/17.jpg'
 import image3 from '../img/bg-img/18.jpg'
@@ -9,7 +9,7 @@ import image6 from '../img/bg-img/14.jpg'
 import image7 from '../img/bg-img/15.jpg'
 import imageCore1 from '../img/core-img/like.png'
 import imageCore2 from '../img/core-img/chat.png'
-import { Aside, Aside2 } from './Aside.tsx'
+import { Aside, Aside2 } from './Aside.jsx'
 
 
 export const Articles = () => {
